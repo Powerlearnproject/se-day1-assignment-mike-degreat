@@ -1,0 +1,17 @@
+# Part 1
+> ### 1. Explain what software engineering is and discuss its importance in the technology industry.
+> > Software engineering systematically applies engineering principles, methods, and tools to develop and maintain   high-quality software systems. This discipline encompasses the design, development, testing, deployment, and maintenance of software products.
+> > ### Importance
+> >  Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
+
+***
+> ### 2.  Identify and describe at least three key milestones in the evolution of software engineering.
+> >  #### (A).  Development of Programming Languages (Fortran, C): 
+> > > - Fortran (1957): Developed by IBM, Fortran (short for "Formula Translation") is one of the oldest programming languages and was created to allow scientists and engineers to use computers for mathematical and scientific calculations more effectively. Its creation marked a pivotal moment in programming, as it was designed specifically for numeric computation and scientific computing.
+> > > - C (1972): Developed by Dennis Ritchie at Bell Labs, C became one of the most influential programming languages due to its powerful capabilities, including low-level access to memory, a simple set of keywords, and a clean style. These features have made C the language of choice for system software, including operating system kernels and embedded systems.
+
+> > #### (B). Advent of Structured Programming (1970s):
+> > > - Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), block structures, and subroutines. It was advocated by Edsger Dijkstra and others in the 1970s. This approach reduces the need for goto statements which can lead to tangled code that is hard to maintain and understand.
+
+> > #### (C). Rise of Agile Methodologies (2000s):
+> > > - Agile methodologies emerged as a response to the limitations of traditional, plan-driven development models that often failed to meet the dynamic requirements of modern software projects. In 2001, the publication of the Agile Manifesto introduced values and principles that promote flexibility, collaboration, customer feedback, and continuous improvement. Agile methodologies like Scrum, Kanban, and Extreme Programming (XP) encourage short development cycles (sprints), regular reflection and adaptation cycles, and close collaboration between cross-functional teams, leading to more adaptive and responsive software development processes.
