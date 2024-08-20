@@ -36,3 +36,9 @@
 
 #### Maintenance:
 > - Once the system is deployed, and customers start using the developed system, the actual problems come up and need to be solved from time to time. This phase involves updating the software to adapt new changes in the client environment, correcting any system defects, improving performance or enhancing the features as per the user's demand. It ensures the software continues to operate and meet its specified functions over time.
+
+***
+
+#### 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate:
+
+    #### Waterfall methodologies: 
