@@ -68,6 +68,11 @@
 ***
 
 ### 4. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-> - #### Software Developer: 
->>- Software Developers are primarily responsible for designing, coding, modifying, and maintaining software. They work across the software development life cycle from concept and design to testing and deployment.
->>- #### Responsibilities:
+ #### Software Developer: 
+  Software Developers are primarily responsible for designing, coding, modifying, and maintaining software. They work across the software development life cycle from concept and design to testing and deployment.
+ #### Responsibilities:
+  - Coding: Write clean, scalable, and efficient code using appropriate programming languages.
+  - Design: Participate in the system design and architecture planning sessions
+  - Debugging: Diagnose and fix bugs identified by QA teams, users, or automated systems.
+  - Documentation: Prepare and maintain documentation pertaining to software development.
+  - Collaboration: Work with team members, including QA, designers, and project managers, to ensure that development meets the specified requirements and timelines.
