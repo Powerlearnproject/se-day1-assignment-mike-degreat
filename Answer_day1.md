@@ -60,8 +60,14 @@
 #### Examples and Scenarios
 1. Waterfall Methodology: 
 > - ### Building a Banking System : 
-> > > - Imagine a large financial institution is looking to develop a new banking system. This system needs to integrate with existing legacy systems, comply with stringent security standards and banking regulations 
+> >- Imagine a large financial institution is looking to develop a new banking system. This system needs to integrate with existing legacy systems, comply with stringent security standards and banking regulations 
 
 2. Agile Methodology:
 > - ### Developing a Consumer Web Application:
-> > > - A startup wants to develop a new consumer web application aimed at providing personalized diet plans. The market is competitive and consumer preferences change frequently. The application needs to adapt quickly to feedback and incorporate new features regularly based on user behavior and trends.
+> > - A startup wants to develop a new consumer web application aimed at providing personalized diet plans. The market is competitive and consumer preferences change frequently. The application needs to adapt quickly to feedback and incorporate new features regularly based on user behavior and trends.
+***
+
+### 4. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+> - #### Software Developer: 
+>>- Software Developers are primarily responsible for designing, coding, modifying, and maintaining software. They work across the software development life cycle from concept and design to testing and deployment.
+>>- #### Responsibilities:
