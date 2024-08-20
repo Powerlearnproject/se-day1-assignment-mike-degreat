@@ -41,4 +41,13 @@
 
 #### 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate:
 
-    #### Waterfall methodologies: 
+#### Waterfall methodologies: 
+> - The Waterfall methodology is a linear, sequential approach to software development. It is structured in a rigid, step-by-step process where each phase must be completed before the next phase can begin. The phases typically include requirements analysis, system design, implementation, testing, deployment, and maintenance.
+
+#### Agile methodologies: 
+> - Agile methodology is an iterative, incremental approach to software development. It promotes continuous iteration of development and testing throughout the lifecycle of the project. Agile divides projects into smaller, manageable units known as "sprints" or "iterations."
+
+#### Comparism
+> - | Features | Waterfall | Agile |
+    | ------ | ---------- | ------- |
+    | Basic Approach | Sequential and linear | Iterative and incremental
