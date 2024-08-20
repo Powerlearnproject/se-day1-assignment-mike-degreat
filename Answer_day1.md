@@ -51,3 +51,8 @@
 | Features | Waterfall | Agile |
 | ------ | ---------- | ------- |
 | Basic Approach | Sequential and linear | Iterative and incremental
+| Flexibility | Low; difficult to implement changes after the phase begins | High; changes can be made at any time during the project
+| Project Management | Defined stages with strict order and dependencies | Flexible, with adaptability to evolving project conditions
+| Feedback | Feedback is received after project completion | Continuous feedback through sprints or iterations
+| Customer Involvement | Limited mostly to requirements gathering and final acceptance | Continuous involvement throughout the project
+| Testing | Typically conducted after the build phase | Continuous testing throughout the development process
