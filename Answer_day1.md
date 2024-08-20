@@ -48,6 +48,6 @@
 > - Agile methodology is an iterative, incremental approach to software development. It promotes continuous iteration of development and testing throughout the lifecycle of the project. Agile divides projects into smaller, manageable units known as "sprints" or "iterations."
 
 #### Comparism
-> - | Features | Waterfall | Agile |
-    | ------ | ---------- | ------- |
-    | Basic Approach | Sequential and linear | Iterative and incremental
+| Features | Waterfall | Agile |
+| ------ | ---------- | ------- |
+| Basic Approach | Sequential and linear | Iterative and incremental
