@@ -78,21 +78,21 @@
   - **Collaboration:** *Work with team members, including QA, designers, and project managers, to ensure that development meets the specified requirements and timelines.*
 
 - #### Quality Assurance (QA) Engineer
- QA Engineers are responsible for ensuring the quality of the software through manual and automated testing. They aim to identify bugs or issues before the software is deployed to end-users.
- ##### Responsibilities:
- - **Test Planning:** *Design test plans and strategies based on software requirements and developer input.*
- - **Test Development:** *Develop and maintain automated test scripts to validate the functionality, performance, and security of the software.*
- - **Test Execution:** *Conduct manual and automated tests to ensure the software behaves as expected.*
- - **Collaboration:**  *Work closely with software developers to communicate defects and potential improvements.*
+    QA Engineers are responsible for ensuring the quality of the software through manual and automated testing. They aim to identify bugs or issues before the software is deployed to end-users.
+  ##### Responsibilities:
+   - **Test Planning:** *Design test plans and strategies based on software requirements and developer input.*
+   - **Test Development:** *Develop and maintain automated test scripts to validate the functionality, performance, and security of the software.*
+   - **Test Execution:** *Conduct manual and automated tests to ensure the software behaves as expected.*
+   - **Collaboration:**  *Work closely with software developers to communicate defects and potential improvements.*
 
 - #### Project Manager
- Project Managers oversee the planning, execution, and closing of projects. They ensure the project is completed on time, within budget, and within scope, managing resources and coordinating the efforts of team members.
- ##### Responsibilities:
- - **Project Planning:** *Define project scope, goals, and deliverables that support business goals in collaboration with senior management and stakeholders.*
- - **Resource Management:**  *Allocate project resources appropriately and ensure resources are available and utilized effectively.*
- - **Schedule Management:** *Develop and maintain project timelines, adjusting schedules as necessary to meet changing needs and requirements.*
- - **Risk Management:** *Identify potential risks and devise contingency plans.*
- - **Stakeholder Communication:** *Maintain regular communication with all stakeholders, including team members, company management, and clients, to keep them informed of project progress.*
+   Project Managers oversee the planning, execution, and closing of projects. They ensure the project is completed on time, within budget, and within scope, managing resources and coordinating the efforts of team members.
+  ##### Responsibilities:
+   - **Project Planning:** *Define project scope, goals, and deliverables that support business goals in collaboration with senior management and stakeholders.*
+   - **Resource Management:**  *Allocate project resources appropriately and ensure resources are available and utilized effectively.*
+   - **Schedule Management:** *Develop and maintain project timelines, adjusting schedules as necessary to meet changing needs and requirements.*
+   - **Risk Management:** *Identify potential risks and devise contingency plans.*
+   - **Stakeholder Communication:** *Maintain regular communication with all stakeholders, including team members, company management, and clients, to keep them informed of project progress.*
  ***
 
 ## 6. **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
@@ -110,3 +110,15 @@
 - Visual Studio
 - IntelliJ IDEA
 
+### Version Control Systems (VCS)
+#### Importance:
+
+- **Collaboration:** VCS allows multiple developers to work on the same project simultaneously. It manages changes from multiple sources effectively, preventing code conflicts.
+- **Track Changes:** Developers can keep a complete history of all changes made to the code, allowing anyone to track back and understand why changes were made.
+- **Branching and Merging:** VCS supports branching (creating different versions of a repository at a point in time) and merging (reintegrating branches back into the main project), which are critical for managing different development activities simultaneously, such as developing new features or addressing bugs.
+- **Backup and Restore:** Changes are logged and can be reverted, providing a safety net that protects against both unintended consequences of changes and catastrophic events.
+
+#### Examples:
+- Git
+- Subversion (SVN)
+- Mercurial
