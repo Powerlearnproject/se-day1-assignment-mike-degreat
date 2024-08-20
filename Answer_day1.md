@@ -56,3 +56,12 @@
 | Feedback | Feedback is received after project completion | Continuous feedback through sprints or iterations
 | Customer Involvement | Limited mostly to requirements gathering and final acceptance | Continuous involvement throughout the project
 | Testing | Typically conducted after the build phase | Continuous testing throughout the development process
+
+#### Examples and Scenarios
+1. Waterfall Methodology: 
+> - ### Building a Banking System : 
+> > > - Imagine a large financial institution is looking to develop a new banking system. This system needs to integrate with existing legacy systems, comply with stringent security standards and banking regulations 
+
+2. Agile Methodology:
+> - ### Developing a Consumer Web Application:
+> > > - A startup wants to develop a new consumer web application aimed at providing personalized diet plans. The market is competitive and consumer preferences change frequently. The application needs to adapt quickly to feedback and incorporate new features regularly based on user behavior and trends.
